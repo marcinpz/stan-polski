@@ -35,3 +35,7 @@ Plan badań. Dane, cytaty i wnioski wymagają zebrania i weryfikacji.
 - Źródła pierwotne, metodologia i rewizje danych.
 - Dowody za i przeciw proponowanym wyjaśnieniom.
 
+
+## Studium przypadku
+
+[Otwartość na dzieci — relacja z grupy END](end-grupa.md). Krótki opis zbiorczy; źródło: relacja uczestnika, bez niezależnej weryfikacji.
