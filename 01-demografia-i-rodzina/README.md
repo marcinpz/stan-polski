@@ -14,7 +14,9 @@ updated: 2026-09-21
 
 ## Stan opracowania
 
-Mapa badawcza, nie gotowa diagnoza. Brak zweryfikowanych danych liczbowych w tej gałęzi. Pytania i możliwe zależności nie są dowodem przyczynowości.
+Dostępne są pierwsze odczyty danych GUS i Eurostatu oraz opis przypadku END. Diagnoza przyczyn pozostaje w opracowaniu; pytania i możliwe zależności nie są dowodem przyczynowości.
+
+[Dossier: Dlaczego rodzi się mniej dzieci?](dlaczego-rodzi-sie-mniej-dzieci.md) — pięć grup wyjaśnień, stan dowodów i plan dalszych badań.
 
 ## Mapa obszaru
 
