@@ -16,3 +16,7 @@
 - `review` — gotowy do kontroli źródeł
 - `verified` — sprawdzony ze źródłem pierwotnym
 - `outdated` — wymaga aktualizacji
+
+## Linkowanie
+
+Używamy względnych linków Markdown, np. `[Dzietność](dzietnosc.md)`, ponieważ działają zarówno na GitHubie, jak i w Obsidianie. Nie używamy składni wikilinków `[[...]]`. Link tworzymy dopiero wtedy, gdy plik docelowy istnieje; planowane karty zapisujemy jako zwykły tekst.
