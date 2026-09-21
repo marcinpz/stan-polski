@@ -6,7 +6,10 @@ status: seed
 ---
 # Suwerenność i bezpieczeństwo
 
+[← Mapa główna](../README.md)
+
 > W jakich dziedzinach Polska zachowuje realną zdolność podejmowania i wykonywania decyzji chroniących wspólnotę?
 
-## Węzły
-[[zdolnosc-decyzyjna]] · [[obronnosc]] · [[bezpieczenstwo-energetyczne]] · [[bezpieczenstwo-zywnosciowe]] · [[bezpieczenstwo-cyfrowe]] · [[bezpieczenstwo-zdrowotne]]
+## Węzły planowane
+
+`zdolność decyzyjna` · `obronność` · `bezpieczeństwo energetyczne` · `bezpieczeństwo żywnościowe` · `bezpieczeństwo cyfrowe` · `bezpieczeństwo zdrowotne`
