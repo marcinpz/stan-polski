@@ -40,3 +40,7 @@ Plan badań. Dane, cytaty i wnioski wymagają zebrania i weryfikacji.
 - [Reprodukcja pokoleń](reprodukcja-pokolen.md)
 - [Bezdzietność](bezdzietnosc.md)
 - [Prognozy ludności](prognozy-ludnosci.md)
+
+## Pierwsze wyniki
+
+[Urodzenia i dzietność — research 21.09.2026](research-2026-09-21.md). Zweryfikowane odczyty GUS i Eurostatu; zakres oraz braki opisane w raporcie.
