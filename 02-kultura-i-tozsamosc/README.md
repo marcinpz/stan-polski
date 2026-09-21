@@ -6,7 +6,10 @@ status: seed
 ---
 # Kultura i tożsamość
 
+[← Mapa główna](../README.md)
+
 > Czy polska kultura zachowuje zdolność przekazywania języka, pamięci, symboli i wzorów życia kolejnym pokoleniom?
 
-## Węzły
-[[jezyk]] · [[pamiec-historyczna]] · [[religia]] · [[dziedzictwo]] · [[media-i-kultura-masowa]] · [[ciaglosc-miedzypokoleniowa]]
+## Węzły planowane
+
+`język` · `pamięć historyczna` · `religia` · `dziedzictwo` · `media i kultura masowa` · `ciągłość międzypokoleniowa`
