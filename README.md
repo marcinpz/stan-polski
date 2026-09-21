@@ -12,6 +12,10 @@ updated: 2026-09-21
 
 Repozytorium jest bazą wiedzy o stanie Polski: od danych źródłowych, przez analizę zależności, po materiały publikacyjne. Ma rozdzielać fakty od interpretacji i pozwalać przechodzić od widoku ogólnego do źródła pierwotnego.
 
+## Perspektywa projektu
+
+[Fundamenty i kryteria oceny](00-fundamenty/README.md): nauczanie katolickie jako podstawa normatywna, Koneczny jako perspektywa interpretacyjna, polska szkoła cybernetyczna jako narzędzia analizy. Fakty i hipotezy pozostają odrębne od ocen religijnych i moralnych.
+
 ## Mapa diagnozy
 
 1. [Demografia i rodzina](01-demografia-i-rodzina/README.md)

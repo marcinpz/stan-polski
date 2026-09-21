@@ -20,3 +20,7 @@
 ## Linkowanie
 
 Używamy względnych linków Markdown, np. `[Dzietność](dzietnosc.md)`, ponieważ działają zarówno na GitHubie, jak i w Obsidianie. Nie używamy składni wikilinków `[[...]]`. Link tworzymy dopiero wtedy, gdy plik docelowy istnieje; planowane karty zapisujemy jako zwykły tekst.
+
+## Fundament religijny a dowody
+
+Perspektywę projektu opisują [Fundamenty](00-fundamenty/README.md). Rozróżniaj nauczanie źródłowe, interpretację autora, ocenę normatywną i hipotezę empiryczną. Ocen moralnych nie oznaczaj jako faktów statystycznych. Hipotezy o skutkach idei wymagają określenia konkretnych postulatów i dowodów przyczynowych; nie przypisuj zbiorowej winy grupom osób. Dokumentuj również dowody przeciwne.
