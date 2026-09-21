@@ -3,7 +3,7 @@ title: Demografia i rodzina
 type: topic
 area: demografia-i-rodzina
 level: L1
-status: seed
+status: review
 updated: 2026-09-21
 ---
 # Demografia i rodzina
@@ -14,7 +14,7 @@ updated: 2026-09-21
 
 ## Stan opracowania
 
-Dostępne są pierwsze odczyty danych GUS i Eurostatu oraz opis przypadku END. Diagnoza przyczyn pozostaje w opracowaniu; pytania i możliwe zależności nie są dowodem przyczynowości.
+Pierwszy etap zamknięty jako [synteza v1](synteza-v1.md): diagnoza, robocza hierarchia wyjaśnień, perspektywa katolicka, postulaty i niewiadome. Nie jest to zakończony przegląd systematyczny ani potwierdzony ranking przyczyn. Dalsze badania są uzupełnieniem i nie blokują przejścia do następnego działu.
 
 [Dossier: Dlaczego rodzi się mniej dzieci?](dlaczego-rodzi-sie-mniej-dzieci.md) — pięć grup wyjaśnień, stan dowodów i plan dalszych badań.
 

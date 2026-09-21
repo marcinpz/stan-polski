@@ -95,10 +95,6 @@ Pięć obszarów to organizacja pracy, nie zamknięta lista przyczyn. W miarę d
 
 Ocena moralna, źródłowe nauczanie Kościoła i empiryczne ustalenia o skutkach pozostają odrębnymi warstwami. Konkretne encykliki i fragmenty należy dopiero opracować; nie przypisujemy tekstom niezweryfikowanych tez.
 
-## Kolejność dalszych prac
+## Zamknięcie pierwszego etapu
 
-1. Uzupełnić aktualność danych oraz rozdzielić strukturę wieku i płodność.
-2. Zebrać badania dla pięciu obszarów, zaczynając od Polski.
-3. Opracować źródłowe kryteria katolickie.
-4. Przygotować krótką syntezę: ustalenia, siła dowodów, niewiadome.
-5. Dopiero na tej podstawie opracować artykuł lub plakat.
+[Synteza v1](synteza-v1.md) zamyka pierwszy etap. Zachowujemy powyższe pytania jako listę możliwych uzupełnień, bez obowiązku wyczerpania ich przed przejściem dalej. Hierarchia w syntezie porządkuje mechanizmy; nie zastępuje nieistniejącego jeszcze oszacowania ich udziałów.
