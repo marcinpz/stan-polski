@@ -14,13 +14,13 @@ Repozytorium jest bazą wiedzy o stanie Polski: od danych źródłowych, przez a
 
 ## Mapa diagnozy
 
-1. [[01-demografia-i-rodzina/README|Demografia i rodzina]]
-2. [[02-kultura-i-tozsamosc/README|Kultura i tożsamość]]
-3. [[03-edukacja-i-wychowanie/README|Edukacja i wychowanie]]
-4. [[04-gospodarka-praca-wlasnosc/README|Gospodarka, praca i własność]]
-5. [[05-panstwo-prawo-wolnosc/README|Państwo, prawo i wolność]]
-6. [[06-suwerennosc-i-bezpieczenstwo/README|Suwerenność i bezpieczeństwo]]
-7. [[07-wspolnota-i-kapital-spoleczny/README|Wspólnota i kapitał społeczny]]
+1. [Demografia i rodzina](01-demografia-i-rodzina/README.md)
+2. [Kultura i tożsamość](02-kultura-i-tozsamosc/README.md)
+3. [Edukacja i wychowanie](03-edukacja-i-wychowanie/README.md)
+4. [Gospodarka, praca i własność](04-gospodarka-praca-wlasnosc/README.md)
+5. [Państwo, prawo i wolność](05-panstwo-prawo-wolnosc/README.md)
+6. [Suwerenność i bezpieczeństwo](06-suwerennosc-i-bezpieczenstwo/README.md)
+7. [Wspólnota i kapitał społeczny](07-wspolnota-i-kapital-spoleczny/README.md)
 
 ## Poziomy informacji
 
@@ -40,4 +40,4 @@ Repozytorium jest bazą wiedzy o stanie Polski: od danych źródłowych, przez a
 
 Każda liczba użyta publicznie powinna prowadzić do karty faktu, a ta do źródła pierwotnego. Interpretacje nie mogą być oznaczane jako fakty.
 
-Zobacz: [[CONTRIBUTING|zasady pracy]], [[MAPA|pełna mapa tematów]] i [[templates/topic|szablon karty problemu]].
+Zobacz: [zasady pracy](CONTRIBUTING.md), [pełna mapa tematów](MAPA.md) i [szablon karty problemu](templates/topic.md).
