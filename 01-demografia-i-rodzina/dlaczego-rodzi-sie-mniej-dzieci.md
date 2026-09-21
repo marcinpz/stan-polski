@@ -21,6 +21,16 @@ Celem dossier jest rozdzielenie zmiany liczebności pokolenia rodziców, odkład
 - [Relacja z grupy END](09-kultura-rodziny/end-grupa.md): zamknięty opis przypadku. Nie wymaga kolejnych danych osobistych i nie reprezentuje wszystkich katolików.
 - [Fundamenty katolickie](../00-fundamenty/README.md) i [hipotezy dotyczące kryzysu Kościoła i rodziny](../00-fundamenty/kryzys-kosciola-i-rodziny.md): punkt odniesienia normatywnego oraz pytania badawcze.
 
+## Pierwszy przegląd literatury — 21.09.2026
+
+| Materiał | Ustalenie przydatne w projekcie | Siła i zakres |
+|---|---|---|
+| [NIDI: motywacje](../sources/nidi-motywacje-2026.md) | Postawy mogą być ambiwalentne; należy badać pragnienia obok ograniczeń | Autorskie omówienie; cztery kraje, bez Polski; brak dowodu przyczynowego |
+| [Rodzicielstwo i dochody](../sources/waszkiewicz-bogusz-rodzicielstwo.md) | Koszty zawodowe rodzicielstwa zasługują na osobną analizę | Polski preprint; odczyt abstraktu; kierunek analizy: narodziny → dochody |
+| [OECD](../sources/oecd-society-2024.md) | Warunki mieszkaniowe, opieka i normy należy rozpatrywać łącznie | Odczyt streszczenia syntezy; brak oszacowania udziałów dla Polski |
+
+To pierwszy przegląd, nie zakończony przegląd systematyczny. Karty dokumentują dokładny zakres odczytu. Nie wyliczono dotąd znaczenia poszczególnych przyczyn ani wpływu religijności. Próba dostępu do komunikatu CBOS 6/2023 zakończyła się błędem; nie wprowadzono jego wyników.
+
 ## Mapa wyjaśnień
 
 Poniższe mechanizmy są przedmiotem badań, nie listą już dowiedzionych przyczyn.
