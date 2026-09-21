@@ -6,7 +6,10 @@ status: seed
 ---
 # Edukacja i wychowanie
 
+[← Mapa główna](../README.md)
+
 > Czy system rozwija wiedzę, charakter i zdolność samodzielnego myślenia oraz respektuje pierwszeństwo rodziców w wychowaniu?
 
-## Węzły
-[[wyniki-nauczania]] · [[programy]] · [[rola-rodzicow]] · [[nauczyciele]] · [[szkolnictwo-zawodowe]] · [[szkolnictwo-wyzsze]] · [[emigracja-talentow]]
+## Węzły planowane
+
+`wyniki nauczania` · `programy` · `rola rodziców` · `nauczyciele` · `szkolnictwo zawodowe` · `szkolnictwo wyższe` · `emigracja talentów`
