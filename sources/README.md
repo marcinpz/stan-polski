@@ -1,5 +1,7 @@
 # Źródła
 
+[← Mapa główna](../README.md)
+
 Katalog kart instytucji, baz danych, publikacji i dokumentów pierwotnych.
 
 ## Preferowana kolejność
@@ -9,4 +11,4 @@ Katalog kart instytucji, baz danych, publikacji i dokumentów pierwotnych.
 3. Wiarygodne opracowania wtórne.
 4. Materiały publicystyczne wyłącznie jako źródło opinii, nie faktu.
 
-Planowane karty: [[GUS]], [[Eurostat]], [[NBP]], [[OECD]], [[ISAP]].
+Planowane karty: `GUS`, `Eurostat`, `NBP`, `OECD`, `ISAP`.
