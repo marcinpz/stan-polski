@@ -6,7 +6,10 @@ status: seed
 ---
 # Gospodarka, praca i własność
 
+[← Mapa główna](../README.md)
+
 > Czy praca i kapitał budują trwałą podmiotowość polskich rodzin, przedsiębiorstw i wspólnot?
 
-## Węzły
-[[wlasnosc-kapitalu]] · [[produktywnosc]] · [[place]] · [[podatki]] · [[mieszkania-i-ziemia]] · [[przemysl]] · [[energia]] · [[przedsiebiorczosc]]
+## Węzły planowane
+
+`własność kapitału` · `produktywność` · `płace` · `podatki` · `mieszkania i ziemia` · `przemysł` · `energia` · `przedsiębiorczość`
